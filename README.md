@@ -13,3 +13,6 @@ Notes:
 5- This thing could theoretically be played like a Go Game.
 
 Enjoy!
+
+![image](https://github.com/ctlombardo/Baduk-Seq-M4L/assets/399513/45c25c84-2c9f-4f5d-9ba3-697d384502c2)
+
